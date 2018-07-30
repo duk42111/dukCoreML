@@ -2,8 +2,8 @@
 //  RoundShadowUIView.swift
 //  CoreML-Tutorial-1
 //
-//  Created by udaykanthd on 19/07/18.
-//  Copyright © 2018 udaykanthd. All rights reserved.
+//  Created on 19/07/18.
+//  Copyright © 2018. All rights reserved.
 //
 
 import UIKit
